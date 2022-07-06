@@ -1,0 +1,1201 @@
+    _   ___ _  __
+   /_\ | _ \ |/ /
+  / _ \|   / ' < 
+ /_/ \_\_|_\_|\_\           
+// ARK
+
+- Benefit A3
+
+ASUS
+
+ROG Phone 2 (ZS660KL)
+I001D
+ROG Phone 3
+Zenfone 2 (1080p)
+Z00A
+device-image for Z008
+Zenfone 2 (720p)
+Z008
+device-image for Z00D
+Zenfone 2 (ZE500CL)
+Z00D
+device-image for Z00L
+Zenfone 2 Laser (720p)
+Z00L
+device-image for Z00T
+Zenfone 2 Laser/Selfie (1080p)
+Z00T
+device-image for zenfone3
+Zenfone 3
+zenfone3
+device-image for Z01R
+Zenfone 5Z (ZS620KL)
+Z01R
+device-image for I01WD
+Zenfone 6 (ZS630KL)
+I01WD
+device-image for sake
+ZenFone 8
+sake
+device-image for X00P
+Zenfone Max M1
+X00P
+device-image for X01AD
+Zenfone Max M2
+X01AD
+device-image for X00TD
+Zenfone Max Pro M1
+X00TD
+device-image for X01BD
+Zenfone Max Pro M2
+X01BD
+device-image for P024
+ZenPad 8.0 (Z380KL)
+P024
+BQ
+arrow_drop_upTop
+device-image for vegetalte
+Aquaris E5 4G / Aquaris E5s
+vegetalte
+device-image for piccolo
+Aquaris M5
+piccolo
+device-image for chaozu
+Aquaris U
+chaozu
+device-image for tenshi
+Aquaris U Plus
+tenshi
+device-image for bardock
+Aquaris X
+bardock
+device-image for bardockpro
+Aquaris X Pro
+bardockpro
+device-image for zangya
+Aquaris X2
+zangya
+device-image for zangyapro
+Aquaris X2 Pro
+zangyapro
+device-image for paella
+Aquaris X5
+paella
+device-image for gohan
+Aquaris X5 Plus
+gohan
+Essential
+arrow_drop_upTop
+device-image for mata
+PH-1
+mata
+F(x)tec
+arrow_drop_upTop
+device-image for pro1
+Pro¹
+pro1
+Fairphone
+arrow_drop_upTop
+device-image for FP2
+Fairphone 2
+FP2
+device-image for FP3
+Fairphone 3
+FP3
+Google
+arrow_drop_upTop
+device-image for seed
+Android One 2nd Gen
+seed
+device-image for maguro
+Galaxy Nexus GSM
+maguro
+device-image for toroplus
+Galaxy Nexus LTE (Sprint)
+toroplus
+device-image for toro
+Galaxy Nexus LTE (Verizon)
+toro
+device-image for manta
+Nexus 10
+manta
+device-image for mako
+Nexus 4
+mako
+device-image for hammerhead
+Nexus 5
+hammerhead
+device-image for bullhead
+Nexus 5X
+bullhead
+device-image for shamu
+Nexus 6
+shamu
+device-image for angler
+Nexus 6P
+angler
+device-image for deb
+Nexus 7 (LTE, 2013 version)
+deb
+device-image for flo
+Nexus 7 (Wi-Fi, 2013 version)
+flo
+device-image for flox
+Nexus 7 2013 (Wi-Fi, Repartitioned)
+flox
+device-image for flounder_lte
+Nexus 9 (LTE)
+flounder_lte
+device-image for flounder
+Nexus 9 (Wi-Fi)
+flounder
+device-image for fugu
+Nexus Player
+fugu
+device-image for sailfish
+Pixel
+sailfish
+device-image for walleye
+Pixel 2
+walleye
+device-image for taimen
+Pixel 2 XL
+taimen
+device-image for blueline
+Pixel 3
+blueline
+device-image for crosshatch
+Pixel 3 XL
+crosshatch
+device-image for sargo
+Pixel 3a
+sargo
+device-image for bonito
+Pixel 3a XL
+bonito
+device-image for flame
+Pixel 4
+flame
+device-image for coral
+Pixel 4 XL
+coral
+device-image for sunfish
+Pixel 4a
+sunfish
+device-image for bramble
+Pixel 4a 5G
+bramble
+device-image for redfin
+Pixel 5
+redfin
+device-image for barbet
+Pixel 5a
+barbet
+device-image for dragon
+Pixel C
+dragon
+device-image for marlin
+Pixel XL
+marlin
+HTC
+arrow_drop_upTop
+device-image for pme
+HTC 10
+pme
+device-image for m7
+One (GSM)
+m7
+device-image for m8
+One (M8)
+m8
+device-image for m8d
+One (M8) Dual SIM
+m8d
+device-image for m7vzw
+One (Verizon)
+m7vzw
+device-image for hiae
+One A9
+hiae
+device-image for himaul
+One M9 (GSM)
+himaul
+device-image for himawl
+One M9 (Verizon)
+himawl
+device-image for t6
+One Max (GSM)
+t6
+device-image for t6vzw
+One Max (Verizon)
+t6vzw
+Huawei
+arrow_drop_upTop
+device-image for mt2
+Ascend Mate 2 4G
+mt2
+device-image for cherry
+Honor 4/4X (Unified)
+cherry
+device-image for che10
+Honor 4x (China Telecom)
+che10
+device-image for kiwi
+Honor 5X
+kiwi
+device-image for berkeley
+Honor View 10
+berkeley
+device-image for figo
+P Smart
+figo
+device-image for anne
+P20 Lite
+anne
+device-image for charlotte
+P20 Pro
+charlotte
+LeEco
+arrow_drop_upTop
+device-image for s2
+Le 2
+s2
+device-image for x2
+Le Max2
+x2
+device-image for zl1
+Le Pro3 / Le Pro3 Elite
+zl1
+Lenovo
+arrow_drop_upTop
+device-image for kuntao
+P2
+kuntao
+device-image for A6020
+Vibe K5 / K5 Plus
+A6020
+device-image for kingdom
+Vibe Z2 Pro
+kingdom
+device-image for YTX703L
+Yoga Tab 3 Plus LTE
+YTX703L
+device-image for YTX703F
+Yoga Tab 3 Plus Wi-Fi
+YTX703F
+device-image for heart
+Z5 Pro GT
+heart
+device-image for zippo
+Z6 Pro
+zippo
+LG
+arrow_drop_upTop
+device-image for v410
+G Pad 7.0 (LTE)
+v410
+device-image for v400
+G Pad 7.0 WiFi
+v400
+device-image for v480
+G Pad 8.0 (Wi-Fi)
+v480
+device-image for v500
+G Pad 8.3
+v500
+device-image for v521
+G Pad X (T-Mobile)
+v521
+device-image for d800
+G2 (AT&T)
+d800
+device-image for d803
+G2 (Canadian)
+d803
+device-image for d802
+G2 (International)
+d802
+device-image for d801
+G2 (T-Mobile)
+d801
+device-image for g2m
+G2 Mini
+g2m
+device-image for d850
+G3 (AT&T)
+d850
+device-image for d852
+G3 (Canada)
+d852
+device-image for d855
+G3 (International)
+d855
+device-image for f400
+G3 (Korea)
+f400
+device-image for ls990
+G3 (Sprint)
+ls990
+device-image for d851
+G3 (T-Mobile)
+d851
+device-image for vs985
+G3 (Verizon)
+vs985
+device-image for jagnm
+G3 Beat
+jagnm
+device-image for jag3gds
+G3 S
+jag3gds
+device-image for h815
+G4 (International)
+h815
+device-image for h811
+G4 (T-Mobile)
+h811
+device-image for h850
+G5 (International)
+h850
+device-image for h830
+G5 (T-Mobile)
+h830
+device-image for rs988
+G5 (US Unlocked)
+rs988
+device-image for h870
+G6 (EU Unlocked)
+h870
+device-image for us997
+G6 (US Unlocked)
+us997
+device-image for m216
+K10
+m216
+device-image for w7
+L90
+w7
+device-image for w5
+Optimus L70
+w5
+device-image for h910
+V20 (AT&T)
+h910
+device-image for h990
+V20 (Global)
+h990
+device-image for ls997
+V20 (Sprint)
+ls997
+device-image for h918
+V20 (T-Mobile)
+h918
+device-image for us996
+V20 (US Unlocked)
+us996
+device-image for vs995
+V20 (Verizon)
+vs995
+Motorola
+arrow_drop_upTop
+device-image for maserati
+Droid 4
+maserati
+device-image for targa
+Droid Bionic
+targa
+device-image for spyder
+Droid RAZR/RAZR MAXX (CDMA)
+spyder
+device-image for racer
+Edge
+racer
+device-image for nio
+Edge S / Moto G100
+nio
+device-image for condor
+Moto E
+condor
+device-image for otus
+Moto E 2015
+otus
+device-image for surnia
+Moto E 2015 LTE
+surnia
+device-image for rhannah
+Moto E5 Plus (XT1924-1/2/4/5)
+rhannah
+device-image for ahannah
+Moto E5 Plus (XT1924-3/9)
+ahannah
+device-image for hannah
+Moto E5 Plus (XT1924-6/7/8)
+hannah
+device-image for falcon
+Moto G
+falcon
+device-image for titan
+Moto G 2014
+titan
+device-image for thea
+Moto G 2014 LTE
+thea
+device-image for osprey
+Moto G 2015
+osprey
+device-image for peregrine
+Moto G 4G
+peregrine
+device-image for kiev
+Moto G 5G / Motorola One 5G Ace
+kiev
+device-image for nairo
+Moto G 5G Plus / Motorola One 5G
+nairo
+device-image for merlin
+Moto G3 Turbo
+merlin
+device-image for athene
+Moto G4
+athene
+device-image for harpia
+Moto G4 Play
+harpia
+device-image for cedric
+Moto G5
+cedric
+device-image for montana
+Moto G5S
+montana
+device-image for evert
+Moto G6 Plus
+evert
+device-image for river
+Moto G7
+river
+device-image for channel
+Moto G7 Play
+channel
+device-image for lake
+Moto G7 Plus
+lake
+device-image for ocean
+Moto G7 Power
+ocean
+device-image for troika
+Moto One Action
+troika
+device-image for chef
+Moto One Power
+chef
+device-image for kane
+Moto One Vision/Motorola P50
+kane
+device-image for ghost
+Moto X
+ghost
+device-image for victara
+Moto X 2014
+victara
+device-image for lux
+Moto X Play
+lux
+device-image for clark
+Moto X Pure Edition/Style (2015)
+clark
+device-image for payton
+Moto X4
+payton
+device-image for griffin
+Moto Z
+griffin
+device-image for addison
+Moto Z Play
+addison
+device-image for nash
+Moto Z2 Force
+nash
+device-image for albus
+Moto Z2 Play
+albus
+device-image for beckham
+Moto Z3 Play
+beckham
+device-image for xt897
+Photon Q 4G LTE
+xt897
+device-image for umts_spyder
+RAZR/RAZR MAXX (GSM)
+umts_spyder
+Nextbit
+arrow_drop_upTop
+device-image for ether
+Robin
+ether
+Nokia
+arrow_drop_upTop
+device-image for PL2
+Nokia 6.1 (2018)
+PL2
+device-image for DRG
+Nokia 6.1 Plus
+DRG
+Nubia
+arrow_drop_upTop
+device-image for TP1803
+Mini 5G
+TP1803
+device-image for nx563j
+Z17
+nx563j
+device-image for nx512j
+Z9 Max
+nx512j
+Nvidia
+arrow_drop_upTop
+device-image for porg
+Jetson (Nano / Nano 2GB) [Android TV]
+porg
+device-image for porg_tab
+Jetson (Nano / Nano 2GB) [Tablet]
+porg_tab
+device-image for quill
+Jetson (TX2 / TX2 NX) [Android TV]
+quill
+device-image for quill_tab
+Jetson (TX2 / TX2 NX) [Tablet]
+quill_tab
+device-image for roth
+Shield Portable
+roth
+device-image for shieldtablet
+Shield Tablet
+shieldtablet
+device-image for foster
+Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Android TV]
+foster
+device-image for foster_tab
+Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Tablet]
+foster_tab
+device-image for mdarcy
+Shield TV 2019 Pro [Android TV]
+mdarcy
+device-image for mdarcy_tab
+Shield TV 2019 Pro [Tablet]
+mdarcy_tab
+OnePlus
+arrow_drop_upTop
+device-image for oneplus2
+OnePlus 2
+oneplus2
+device-image for oneplus3
+OnePlus 3 / 3T
+oneplus3
+device-image for cheeseburger
+OnePlus 5
+cheeseburger
+device-image for dumpling
+OnePlus 5T
+dumpling
+device-image for enchilada
+OnePlus 6
+enchilada
+device-image for fajita
+OnePlus 6T
+fajita
+device-image for guacamoleb
+OnePlus 7
+guacamoleb
+device-image for guacamole
+OnePlus 7 Pro
+guacamole
+device-image for hotdogb
+OnePlus 7T
+hotdogb
+device-image for hotdog
+OnePlus 7T Pro
+hotdog
+device-image for instantnoodle
+OnePlus 8
+instantnoodle
+device-image for instantnoodlep
+OnePlus 8 Pro
+instantnoodlep
+device-image for kebab
+OnePlus 8T
+kebab
+device-image for lemonade
+OnePlus 9
+lemonade
+device-image for lemonadep
+OnePlus 9 Pro
+lemonadep
+device-image for avicii
+OnePlus Nord
+avicii
+device-image for bacon
+OnePlus One
+bacon
+device-image for onyx
+OnePlus X
+onyx
+OPPO
+arrow_drop_upTop
+device-image for f1f
+F1 (International)
+f1f
+device-image for find7
+Find 7a/s
+find7
+device-image for n3
+N3
+n3
+device-image for r5
+R5/R5s (International)
+r5
+device-image for r7plus
+R7 Plus (International)
+r7plus
+device-image for r7sf
+R7s (International)
+r7sf
+Razer
+arrow_drop_upTop
+device-image for cheryl
+Phone
+cheryl
+device-image for aura
+Phone 2
+aura
+Realme
+arrow_drop_upTop
+device-image for RMX1801
+Realme 2 Pro
+RMX1801
+device-image for RMX1851
+Realme 3 Pro
+RMX1851
+Samsung
+arrow_drop_upTop
+device-image for a3xelte
+Galaxy A3 (2016)
+a3xelte
+device-image for a5xelte
+Galaxy A5 (2016)
+a5xelte
+device-image for a5y17lte
+Galaxy A5 (2017)
+a5y17lte
+device-image for a7xelte
+Galaxy A7 (2016)
+a7xelte
+device-image for a7y17lte
+Galaxy A7 (2017)
+a7y17lte
+device-image for ms013g
+Galaxy Grand 2 Duos
+ms013g
+device-image for j7elte
+Galaxy J7 (2015)
+j7elte
+device-image for m20lte
+Galaxy M20
+m20lte
+device-image for lt03lte
+Galaxy Note 10.1 2014 (LTE)
+lt03lte
+device-image for n1awifi
+Galaxy Note 10.1 Wi-Fi (2014)
+n1awifi
+device-image for t0lte
+Galaxy Note 2 (LTE)
+t0lte
+device-image for ha3g
+Galaxy Note 3 (International 3G)
+ha3g
+device-image for hlte
+Galaxy Note 3 LTE (N9005/P)
+hlte
+device-image for hltechn
+Galaxy Note 3 LTE (N9008V)
+hltechn
+device-image for hltekor
+Galaxy Note 3 LTE (N900K/L/S)
+hltekor
+device-image for hltetmo
+Galaxy Note 3 LTE (N900T/V/W8)
+hltetmo
+device-image for n5100
+Galaxy Note 8.0 (GSM)
+n5100
+device-image for n5120
+Galaxy Note 8.0 (LTE)
+n5120
+device-image for n5110
+Galaxy Note 8.0 (Wi-Fi)
+n5110
+device-image for crownlte
+Galaxy Note 9
+crownlte
+device-image for v1awifi
+Galaxy Note Pro 12.2 Wi-Fi
+v1awifi
+device-image for d1
+Galaxy Note10
+d1
+device-image for d2s
+Galaxy Note10+
+d2s
+device-image for d2x
+Galaxy Note10+ 5G
+d2x
+device-image for i9100
+Galaxy S II
+i9100
+device-image for d2att
+Galaxy S III (AT&T)
+d2att
+device-image for i9300
+Galaxy S III (International)
+i9300
+device-image for i9305
+Galaxy S III (LTE / International)
+i9305
+device-image for d2spr
+Galaxy S III (Sprint)
+d2spr
+device-image for d2tmo
+Galaxy S III (T-Mobile)
+d2tmo
+device-image for d2vzw
+Galaxy S III (Verizon)
+d2vzw
+device-image for s3ve3gds
+Galaxy S III Neo (Dual SIM)
+s3ve3gds
+device-image for s3ve3gjv
+Galaxy S III Neo (Samsung Camera)
+s3ve3gjv
+device-image for s3ve3gxx
+Galaxy S III Neo (Sony Camera)
+s3ve3gxx
+device-image for beyond1lte
+Galaxy S10
+beyond1lte
+device-image for beyondx
+Galaxy S10 5G
+beyondx
+device-image for beyond2lte
+Galaxy S10+
+beyond2lte
+device-image for beyond0lte
+Galaxy S10e
+beyond0lte
+device-image for jfltexx
+Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919)
+jfltexx
+device-image for jfltevzw
+Galaxy S4 (SCH-I545)
+jfltevzw
+device-image for jfltespr
+Galaxy S4 (SCH-R970, SPH-L720)
+jfltespr
+device-image for jflteatt
+Galaxy S4 (SGH-I337)
+jflteatt
+device-image for jactivelte
+Galaxy S4 Active
+jactivelte
+device-image for ks01lte
+Galaxy S4 LTE-A (GT-I9506)
+ks01lte
+device-image for serrano3gxx
+Galaxy S4 Mini (International 3G)
+serrano3gxx
+device-image for serranodsdd
+Galaxy S4 Mini (International Dual SIM)
+serranodsdd
+device-image for serranoltexx
+Galaxy S4 Mini (International LTE)
+serranoltexx
+device-image for jfvelte
+Galaxy S4 Value Edition (GT-I9515/L)
+jfvelte
+device-image for k3gxx
+Galaxy S5 (International 3G)
+k3gxx
+device-image for klteactivexx
+Galaxy S5 Active (G870F)
+klteactivexx
+device-image for kltechn
+Galaxy S5 LTE (G9006V/8V)
+kltechn
+device-image for klteaio
+Galaxy S5 LTE (G900AZ/S902L)
+klteaio
+device-image for klte
+Galaxy S5 LTE (G900F/M/R4/R7/T/V/W8)
+klte
+device-image for kltedv
+Galaxy S5 LTE (G900I/P)
+kltedv
+device-image for kltekor
+Galaxy S5 LTE (G900K/L/S)
+kltekor
+device-image for kltekdi
+Galaxy S5 LTE (SC-04F/SCL23)
+kltekdi
+device-image for kltechnduo
+Galaxy S5 LTE Duos (G9006W/8W)
+kltechnduo
+device-image for klteduos
+Galaxy S5 LTE Duos (G900FD/MD)
+klteduos
+device-image for lentislte
+Galaxy S5 LTE-A
+lentislte
+device-image for s5neolte
+Galaxy S5 Neo
+s5neolte
+device-image for kccat6
+Galaxy S5 Plus
+kccat6
+device-image for kltesprsports
+Galaxy S5 Sport
+kltesprsports
+device-image for zerofltexx
+Galaxy S6
+zerofltexx
+device-image for zeroltexx
+Galaxy S6 Edge
+zeroltexx
+device-image for herolte
+Galaxy S7
+herolte
+device-image for hero2lte
+Galaxy S7 Edge
+hero2lte
+device-image for starlte
+Galaxy S9
+starlte
+device-image for star2lte
+Galaxy S9+
+star2lte
+device-image for espresso3g
+Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)
+espresso3g
+device-image for espressowifi
+Galaxy Tab 2 7.0 / Tab 2 10.1 (Wi-Fi / Wi-Fi + IR)
+espressowifi
+device-image for lt02ltespr
+Galaxy Tab 3 7.0 LTE
+lt02ltespr
+device-image for gtesqltespr
+Galaxy Tab E 8.0 LTE (Sprint)
+gtesqltespr
+device-image for gtelwifiue
+Galaxy Tab E 9.6 (WiFi)
+gtelwifiue
+device-image for n2awifi
+Galaxy Tab PRO 10.1
+n2awifi
+device-image for mondrianwifi
+Galaxy Tab Pro 8.4
+mondrianwifi
+device-image for chagalllte
+Galaxy Tab S 10.5 LTE
+chagalllte
+device-image for chagallwifi
+Galaxy Tab S 10.5 Wi-Fi
+chagallwifi
+device-image for klimtwifi
+Galaxy Tab S 8.4 Wi-Fi
+klimtwifi
+device-image for gts28vewifi
+Galaxy Tab S2 8.0 Wi-Fi (2016)
+gts28vewifi
+device-image for gts210ltexx
+Galaxy Tab S2 9.7 (LTE)
+gts210ltexx
+device-image for gts210wifi
+Galaxy Tab S2 9.7 (Wi-Fi)
+gts210wifi
+device-image for gts210vewifi
+Galaxy Tab S2 9.7 Wi-Fi (2016)
+gts210vewifi
+device-image for gts4lv
+Galaxy Tab S5e (LTE)
+gts4lv
+device-image for gts4lvwifi
+Galaxy Tab S5e (Wi-Fi)
+gts4lvwifi
+device-image for gta4xl
+Galaxy Tab S6 Lite (LTE)
+gta4xl
+device-image for gta4xlwifi
+Galaxy Tab S6 Lite (Wi-Fi)
+gta4xlwifi
+SHIFT
+arrow_drop_upTop
+device-image for axolotl
+SHIFT6mq
+axolotl
+Sony
+arrow_drop_upTop
+device-image for kirin
+Xperia 10
+kirin
+device-image for mermaid
+Xperia 10 Plus
+mermaid
+device-image for taoshan
+Xperia L
+taoshan
+device-image for nicki
+Xperia M
+nicki
+device-image for huashan
+Xperia SP
+huashan
+device-image for mint
+Xperia T
+mint
+device-image for pollux
+Xperia Tablet Z LTE
+pollux
+device-image for pollux_windy
+Xperia Tablet Z Wi-Fi
+pollux_windy
+device-image for castor
+Xperia Tablet Z2 LTE
+castor
+device-image for castor_windy
+Xperia Tablet Z2 Wi-Fi
+castor_windy
+device-image for hayabusa
+Xperia TX
+hayabusa
+device-image for tsubasa
+Xperia V
+tsubasa
+device-image for pioneer
+Xperia XA2
+pioneer
+device-image for voyager
+Xperia XA2 Plus
+voyager
+device-image for discovery
+Xperia XA2 Ultra
+discovery
+device-image for akari
+Xperia XZ2
+akari
+device-image for xz2c
+Xperia XZ2 Compact
+xz2c
+device-image for aurora
+Xperia XZ2 Premium
+aurora
+device-image for akatsuki
+Xperia XZ3
+akatsuki
+device-image for yuga
+Xperia Z
+yuga
+device-image for sirius
+Xperia Z2
+sirius
+device-image for z3
+Xperia Z3
+z3
+device-image for z3c
+Xperia Z3 Compact
+z3c
+device-image for ivy
+Xperia Z3+
+ivy
+device-image for karin
+Xperia Z4 Tablet LTE
+karin
+device-image for karin_windy
+Xperia Z4 Tablet WiFi
+karin_windy
+device-image for sumire
+Xperia Z5
+sumire
+device-image for suzuran
+Xperia Z5 Compact
+suzuran
+device-image for odin
+Xperia ZL
+odin
+device-image for dogo
+Xperia ZR
+dogo
+Wileyfox
+arrow_drop_upTop
+device-image for kipper
+Storm
+kipper
+device-image for crackling
+Swift
+crackling
+Wingtech
+arrow_drop_upTop
+device-image for wt88047
+Redmi 2
+wt88047
+Xiaomi
+arrow_drop_upTop
+device-image for monet
+Mi 10 Lite 5G
+monet
+device-image for apollon
+Mi 10T / Mi 10T Pro / Redmi K30S Ultra
+apollon
+device-image for gauguin
+Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G
+gauguin
+device-image for cancro
+Mi 3 / Mi 4
+cancro
+device-image for libra
+Mi 4c
+libra
+device-image for gemini
+Mi 5
+gemini
+device-image for capricorn
+Mi 5s
+capricorn
+device-image for natrium
+Mi 5s Plus
+natrium
+device-image for sagit
+Mi 6
+sagit
+device-image for wayne
+Mi 6X
+wayne
+device-image for dipper
+Mi 8
+dipper
+device-image for platina
+Mi 8 Lite
+platina
+device-image for tissot
+Mi A1
+tissot
+device-image for jasmine_sprout
+Mi A2
+jasmine_sprout
+device-image for hydrogen
+Mi Max
+hydrogen
+device-image for lithium
+Mi MIX
+lithium
+device-image for chiron
+Mi MIX 2
+chiron
+device-image for polaris
+Mi MIX 2S
+polaris
+device-image for scorpio
+Mi Note 2
+scorpio
+device-image for jason
+Mi Note 3
+jason
+device-image for beryllium
+Poco F1
+beryllium
+device-image for lmi
+POCO F2 Pro / Redmi K30 Pro / Redmi K30 Pro Zoom Edition
+lmi
+device-image for alioth
+POCO F3 / Redmi K40 / Mi 11X
+alioth
+device-image for miatoll
+POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max
+miatoll
+device-image for surya
+POCO X3 NFC
+surya
+device-image for vayu
+POCO X3 Pro
+vayu
+device-image for armani
+Redmi 1S
+armani
+device-image for ido
+Redmi 3/Prime
+ido
+device-image for land
+Redmi 3S/3X
+land
+device-image for santoni
+Redmi 4(X)
+santoni
+device-image for onclite
+Redmi 7
+onclite
+device-image for davinci
+Redmi K20 / Mi 9T
+davinci
+device-image for kenzo
+Redmi Note 3
+kenzo
+device-image for mido
+Redmi Note 4
+mido
+device-image for whyred
+Redmi Note 5 Pro
+whyred
+device-image for twolip
+Redmi Note 6 Pro
+twolip
+device-image for lavender
+Redmi Note 7
+lavender
+device-image for violet
+Redmi Note 7 Pro
+violet
+device-image for ginkgo
+Redmi Note 8 / 8T
+ginkgo
+Yandex
+arrow_drop_upTop
+device-image for Amber
+Phone
+Amber
+YU
+arrow_drop_upTop
+device-image for jalebi
+Yunique
+jalebi
+device-image for lettuce
+Yuphoria
+lettuce
+device-image for tomato
+Yureka / Yureka Plus
+tomato
+ZTE
+arrow_drop_upTop
+device-image for jasmine
+AT&T Trek 2 HD
+jasmine
+device-image for axon7
+Axon 7
+axon7
+device-image for tulip
+Axon 7 Mini
+tulip
+ZUK
+arrow_drop_upTop
+device-image for ham
+Z1
+ham
+device-image for z2_plus
+Z2 Plus
+z2_plus
